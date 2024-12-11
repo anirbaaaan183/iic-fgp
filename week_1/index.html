@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+	<meta charset="UTF-8">
+	<meta name="description" content="IIC FGP Week 1">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+	<title></title>
+
+	<link rel="stylesheet" href="./style.css">
+	<script defer src="./script.js" defer></script>
+</head>
+
+<body>
+	<section>
+		<div id="main-container">
+			<!-- Resources -->
+			<!-- Sliders: https://www.w3schools.com/howto/howto_js_rangeslider.asp -->
+			<!-- Buttons: https://www.w3schools.com/tags/tag_button.asp -->
+
+			<!-- Title -->
+			<h1>Password Generator</h1>
+
+			<!-- Generated Password Display -->
+			<div id="password-container">
+				<h2 id="password-text">Password Here</h2>
+				<button id="copy-button" type="button">Copy</button>
+			</div>
+
+			<!-- Password Length Slider -->
+			<div id="length-slider-container">
+				<p>Password Length</p>
+				<input id="pass-length-slider" type="range" min="1" max="25" class="slider">
+				<p id="pass-length-text"></p>
+			</div>
+
+			<!-- Generate Password Button -->
+			<button id="generate-button" type="button">Generate Password</button>
+		</div>
+	</section>
+</body>
+
+</html>
