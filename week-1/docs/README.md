@@ -10,7 +10,8 @@ Create a simple password generator using javascript The user just clicks on a bu
 
 ### Progress 12-12-24/12.32
 UI Completed  
-![image](https://github.com/user-attachments/assets/068d0197-671e-4938-ad8b-eaca0355ee56)
+  
+![image](https://github.com/user-attachments/assets/68433505-fbc7-4807-91a7-e748344df96c)
 
 ### Progress 12-12-24/13.17
 Full Site Completed  
