@@ -18,20 +18,20 @@
 		* promises
 		* etc
 * **Functions**: 
-	* Declaration: Declaring a function
+	* Declaration: Declaring a function  
 		`function name() { /* body */* }`
-	* Expression: Declaring a function without name (unless used in a variable)
+	* Expression: Declaring a function without name (unless used in a variable)  
 		`const name = function() { /* body */* }`
 		`const name = new Function("params", "body")`
-	* Arrow Functions: Short hand declaration of functions
+	* Arrow Functions: Short hand declaration of functions  
 		`const myFunction = (params) => expression;`
 		`const myFunction = (params) => { /*body*/ };`
 * **Loops**:
-	* For:
+	* For:  
 		`for (let i = 0; i < length; i++) { /*body*/ } `
-	* While
+	* While  
 		`while(condition) { /*body*/ }`
-	* ForEach
+	* ForEach  
 		`array.forEach(function());`
 * **Let**: Scopes the variable in the current `{}` block.  Hoisted but not initialized. does not create a property on the global object. Re-declaration not allowed. `var` is the exact opposite. https://stackoverflow.com/questions/762011/what-is-the-difference-between-let-and-var
 * **Const**:The const keyword has all the properties that are the same as the let keyword, except the user cannot update it and have to assign it with a value at the time of declaration. 
