@@ -60,7 +60,8 @@ section {
 
 #copy-button {
 	padding: 3px 20px;
-	background: #aaaaaa;
+	background: #cccccc;
+	color: #000000;
 	border-radius: 7px;
 }
 
