@@ -43,7 +43,7 @@
 #### Create a simple password generator using javascript The user just clicks on a button and it should generate random mixed passwords.
 
 #### Submission
-Code: https://github.com/anirbaaaan183/iic-fgp/tree/main/week-1
+Code: https://github.com/anirbaaaan183/iic-fgp/tree/main/week-1  
 Website: https://anirbaaaan.is-a.dev/iic-fgp/week-1/
 
 ## Progress
