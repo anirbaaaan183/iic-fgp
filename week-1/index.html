@@ -18,21 +18,34 @@
 			<!-- Resources -->
 			<!-- Sliders: https://www.w3schools.com/howto/howto_js_rangeslider.asp -->
 			<!-- Buttons: https://www.w3schools.com/tags/tag_button.asp -->
+			<!-- Checkbox: https://www.w3schools.com/jsref/dom_obj_checkbox.asp -->
 
 			<!-- Title -->
 			<h1>Password Generator</h1>
 
 			<!-- Generated Password Display -->
 			<div id="password-container">
-				<h2 id="password-text">Password Here</h2>
+				<h2 id="password-text">XXXXXXXXXXXXXXXXXXXXXXXXX</h2>
 				<button id="copy-button" type="button">Copy</button>
 			</div>
 
 			<!-- Password Length Slider -->
 			<div id="length-slider-container">
-				<p>Password Length</p>
+				<p>Password Size</p>
 				<input id="pass-length-slider" type="range" min="1" max="25" class="slider">
-				<p id="pass-length-text"></p>
+				<p id="pass-length-text">25</p>
+			</div>
+
+			<!-- Password Settings Checkboxes -->
+			<div id="settings-checkbox-container">
+				<div>
+					<input id="symbol-checkbox" type="checkbox">
+					<p>Use Symbols</p>
+				</div>
+				<div>
+					<input id="numbers-checkbox" type="checkbox">
+					<p>Use Numbers</p>
+				</div>
 			</div>
 
 			<!-- Generate Password Button -->
