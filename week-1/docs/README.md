@@ -42,6 +42,10 @@
 # Week 1 Assignment
 #### Create a simple password generator using javascript The user just clicks on a button and it should generate random mixed passwords.
 
+#### Submission
+Code: https://github.com/anirbaaaan183/iic-fgp/tree/main/week-1
+Website: https://anirbaaaan.is-a.dev/iic-fgp/week-1/
+
 ## Progress
 ### Progress 12-12-24/22.14
 ![image](https://github.com/user-attachments/assets/3a26dc13-657d-40dd-b840-6f70e47315a8)  
