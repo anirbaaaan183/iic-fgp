@@ -65,3 +65,9 @@ Full Site Completed
 ![image](https://github.com/user-attachments/assets/c8ce96ef-cf1e-4bff-a145-b8018c31df2d)  
 ![image](https://github.com/user-attachments/assets/7de13854-ff30-4a41-8376-423b2f6db238)  
 ![image](https://github.com/user-attachments/assets/69ddd0da-094f-4374-b1f8-a30270919d68)
+
+### Progresss 13-12-24/18:23
+Unified Site Theme and Better Responsiveness  
+  
+![image](https://github.com/user-attachments/assets/ef37589f-4747-4395-87c8-4304c6083b78)
+
